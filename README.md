@@ -62,13 +62,3 @@ Faço parte do projeto de pesquisa **ArcEdu**, onde aplicamos tecnologia para tr
 </p>
 
 ---
-
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanGabriel&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-💬 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novos desafios!
